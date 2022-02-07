@@ -1,0 +1,10 @@
+C:\Users\damla\source\repos\server\server\bin\Debug\server.exe.config
+C:\Users\damla\source\repos\server\server\bin\Debug\server.exe
+C:\Users\damla\source\repos\server\server\bin\Debug\server.pdb
+C:\Users\damla\source\repos\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\damla\source\repos\server\server\obj\Debug\server.Form1.resources
+C:\Users\damla\source\repos\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\damla\source\repos\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\damla\source\repos\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\damla\source\repos\server\server\obj\Debug\server.exe
+C:\Users\damla\source\repos\server\server\obj\Debug\server.pdb
